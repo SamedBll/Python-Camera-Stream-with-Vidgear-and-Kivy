@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = SamedBll-Stream
+title = Stream
 
 # (str) Package name
 package.name = myapp
